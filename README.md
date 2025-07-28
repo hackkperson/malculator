@@ -1,6 +1,6 @@
-# Memz Trojan Calculator
+# malculator
 # Overview
-# The Memz Trojan Calculator is a malicious script disguised as a simple calculator application. It performs various harmful actions on the target machine, including taking screenshots, stealing passwords, spamming pop-up messages, and deleting critical registry keys. The collected data is sent to a specified SMB share on your network.
+# The Malculator is a malicious script disguised as a simple calculator application. It performs various harmful actions on the target machine, including taking screenshots, stealing passwords, spamming pop-up messages, and deleting critical registry keys. The collected data is sent to a specified SMB share on your network.
 
 # Features
 # Calculator Interface: Presents a simple calculator interface to the user, making the malicious activities less suspicious.
